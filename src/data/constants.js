@@ -11,7 +11,8 @@ export const Bio = {
     'I’m an enthusiastic and adaptable individual with a strong drive to learn and grow. I approach every challenge with determination and aim to deliver excellent results. Guided by a positive mindset and a commitment to improvement, I’m ready to contribute meaningfully and reach new heights.',
   github: 'https://github.com/Amina0505',
   resume:
-    'https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link',
+      'https://drive.google.com/file/d/1ZSVQe3fHnmwZkmjaaQbIztpOU_jono4f/view?usp=sharing',
+
   linkedin: 'https://www.linkedin.com/in/amina-a-a-759a0a231/',
   twitter: 'https://x.com/AminaAA0505',
   insta: 'https://www.instagram.com/aa__aminah?igsh=MWU0emI5aGlzY3ZiMQ==',
